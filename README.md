@@ -20,7 +20,7 @@ _Stop the service_
 
 | Error | Fix |
 | --- | --- |
-| error “Port 8080 already in use, Tomcat server” | On linux `sudo kill `sudo lsof -t -i:8080``| 
+| error “Port 8080 already in use, Tomcat server” | On linux ``sudo kill `sudo lsof -t -i:8080``| 
 
 
 
